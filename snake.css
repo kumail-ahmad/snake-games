@@ -1,0 +1,22 @@
+body{
+    background-color: pink;
+}
+.gameContainer{
+    text-align: center;
+}
+#gameBoard{
+    border:5px solid black;
+}
+#scoreText{
+    font-family:"Permanent Marker",cursive;
+    font-size:100px;
+}
+#resetBtn{
+    font-family:"Permanent Marker",cursive;
+    font-size:30px;
+    width:100px;
+    height:50px;
+    border:4px solid black;
+    border-radius: 15px;
+    cursor:pointer;
+}
